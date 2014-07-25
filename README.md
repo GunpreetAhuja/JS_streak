@@ -1,1 +1,0 @@
-This file info contains the basic information that might be required while working with Linux.
